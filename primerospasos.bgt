@@ -1,0 +1,3 @@
+void main(){
+alert("Visor", "¡Atención! ¡Tengo acentos!");
+}
